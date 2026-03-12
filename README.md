@@ -6,7 +6,6 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/tryagainbelly/tryagainbelly">
     <img src="https://komarev.com/ghpvc/?username=tryagainbelly" alt="page views" />
     <a href="https://discord.com/users/tryagainbelly"><img src="https://img.shields.io/badge/Discord-Belly-blue?style=for-the-badge&logo=discord"/></a>
 </div>
