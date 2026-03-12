@@ -7,7 +7,7 @@
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=tryagainbelly" alt="page views" />
-    <a href="https://discord.com/users/tryagainbelly"><img src="https://img.shields.io/badge/Discord-Belly-blue?style=for-the-badge&logo=discord"/></a>
+    <a href="https://discord.com/users/tryagainbelly"><img src="https://img.shields.io/badge/Discord-Belly-blue?logo=discord"/></a>
 </div>
 
 ## 🐝 A little about me... 
